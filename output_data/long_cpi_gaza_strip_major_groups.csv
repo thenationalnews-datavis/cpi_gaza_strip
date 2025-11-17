@@ -1,0 +1,526 @@
+code_good_service,name_good_service,short_name_good_service,date_month,cpi_index,pct_change
+0999,All items of consumer price index,All items,2022-12-01,103.67247660939668,
+0999,All items of consumer price index,All items,2023-01-01,102.88041321571103,-0.7640054714520659
+0999,All items of consumer price index,All items,2023-02-01,103.85710884245312,0.949350412011114
+0999,All items of consumer price index,All items,2023-03-01,105.67464991972673,1.7500401248707504
+0999,All items of consumer price index,All items,2023-04-01,105.97172663652198,0.28112391857546015
+0999,All items of consumer price index,All items,2023-05-01,105.7164549299255,-0.24088661636328368
+0999,All items of consumer price index,All items,2023-06-01,105.14351522532544,-0.5419588700546427
+0999,All items of consumer price index,All items,2023-07-01,105.31237803079657,0.16060220652622093
+0999,All items of consumer price index,All items,2023-08-01,105.93255651766712,0.5888942007265143
+0999,All items of consumer price index,All items,2023-09-01,107.42432597230723,1.4082256708222758
+0999,All items of consumer price index,All items,2023-10-01,120.30896481085779,11.994153765388376
+0999,All items of consumer price index,All items,2023-11-01,142.38215588576824,18.34708752553273
+0999,All items of consumer price index,All items,2023-12-01,159.77193959793226,12.21345722993243
+0999,All items of consumer price index,All items,2024-01-01,178.00850033197014,11.414119888592694
+0999,All items of consumer price index,All items,2024-02-01,226.52387479166921,
+0999,All items of consumer price index,All items,2024-03-01,283.82776216070505,25.297063023373312
+0999,All items of consumer price index,All items,2024-04-01,268.44360300320756,-5.4202446724668505
+0999,All items of consumer price index,All items,2024-05-01,365.68811681400274,36.225304951533246
+0999,All items of consumer price index,All items,2024-06-01,372.6837165420455,1.912996186201184
+0999,All items of consumer price index,All items,2024-07-01,361.91860403874426,-2.888538464515051
+0999,All items of consumer price index,All items,2024-08-01,369.02611196798364,1.9638415516430712
+0999,All items of consumer price index,All items,2024-09-01,411.00492159327854,11.375566189998224
+0999,All items of consumer price index,All items,2024-10-01,492.5530424394671,19.841154341914873
+0999,All items of consumer price index,All items,2024-11-01,633.4728215908848,28.610071811450865
+0999,All items of consumer price index,All items,2024-12-01,668.5135517903774,5.531528584208601
+0999,All items of consumer price index,All items,2025-01-01,312.36530010826243,-53.27464951582472
+0999,All items of consumer price index,All items,2025-02-01,208.3681534089459,-33.293437735648695
+0999,All items of consumer price index,All items,2025-03-01,292.92798184765013,40.58193493357217
+0999,All items of consumer price index,All items,2025-04-01,514.3537496156665,75.59051421833044
+0999,All items of consumer price index,All items,2025-05-01,736.5869671027945,43.20629871040782
+0999,All items of consumer price index,All items,2025-06-01,777.4262875391338,5.5443989997504275
+0999,All items of consumer price index,All items,2025-07-01,824.6973292459601,6.080453216530415
+0999,All items of consumer price index,All items,2025-08-01,656.9571147917211,-20.339609273090247
+0999,All items of consumer price index,All items,2025-09-01,568.3676978155942,-13.484809735900797
+0999,All items of consumer price index,All items,2025-10-01,338.6205256838715,-40.422278221424136
+01,Food and Non-Alcoholic Beverages,Food and drink,2022-12-01,105.67426616301573,
+01,Food and Non-Alcoholic Beverages,Food and drink,2023-01-01,103.22457704689867,-2.3181510551850977
+01,Food and Non-Alcoholic Beverages,Food and drink,2023-02-01,105.0582324898007,1.7763748666840513
+01,Food and Non-Alcoholic Beverages,Food and drink,2023-03-01,106.84370183305528,1.6995044566620976
+01,Food and Non-Alcoholic Beverages,Food and drink,2023-04-01,107.41524967863336,0.5349382656837633
+01,Food and Non-Alcoholic Beverages,Food and drink,2023-05-01,106.26064308545713,-1.0749000692458424
+01,Food and Non-Alcoholic Beverages,Food and drink,2023-06-01,105.10959201573431,-1.0832336755172207
+01,Food and Non-Alcoholic Beverages,Food and drink,2023-07-01,104.76919377633992,-0.3238507855148356
+01,Food and Non-Alcoholic Beverages,Food and drink,2023-08-01,106.48386814314068,1.6366207517652924
+01,Food and Non-Alcoholic Beverages,Food and drink,2023-09-01,109.82206641454074,3.13493332803489
+01,Food and Non-Alcoholic Beverages,Food and drink,2023-10-01,120.59332464075457,9.807918005800403
+01,Food and Non-Alcoholic Beverages,Food and drink,2023-11-01,133.29048013905415,10.528904096577634
+01,Food and Non-Alcoholic Beverages,Food and drink,2023-12-01,192.74052508874192,44.60186870635249
+01,Food and Non-Alcoholic Beverages,Food and drink,2024-01-01,224.6936611520446,16.578317428880496
+01,Food and Non-Alcoholic Beverages,Food and drink,2024-02-01,288.2442572213286,
+01,Food and Non-Alcoholic Beverages,Food and drink,2024-03-01,322.7632373915773,11.975600313085593
+01,Food and Non-Alcoholic Beverages,Food and drink,2024-04-01,255.99823535189506,-20.685441929274845
+01,Food and Non-Alcoholic Beverages,Food and drink,2024-05-01,263.50570793532836,2.9326266929588627
+01,Food and Non-Alcoholic Beverages,Food and drink,2024-06-01,243.82807395671577,-7.467631017481423
+01,Food and Non-Alcoholic Beverages,Food and drink,2024-07-01,233.5093690467285,-4.231959323854994
+01,Food and Non-Alcoholic Beverages,Food and drink,2024-08-01,255.8227670468281,9.55567568495907
+01,Food and Non-Alcoholic Beverages,Food and drink,2024-09-01,452.8458969120399,77.01547916927461
+01,Food and Non-Alcoholic Beverages,Food and drink,2024-10-01,660.5391104797737,45.863993686151446
+01,Food and Non-Alcoholic Beverages,Food and drink,2024-11-01,710.9803776059106,7.636378577114016
+01,Food and Non-Alcoholic Beverages,Food and drink,2024-12-01,638.1247539650341,-10.24720596174592
+01,Food and Non-Alcoholic Beverages,Food and drink,2025-01-01,359.0245836425828,-43.73755579739578
+01,Food and Non-Alcoholic Beverages,Food and drink,2025-02-01,213.25509121996885,-40.60153512154221
+01,Food and Non-Alcoholic Beverages,Food and drink,2025-03-01,304.9009775705056,42.97477064967495
+01,Food and Non-Alcoholic Beverages,Food and drink,2025-04-01,489.02731415258484,60.38889676550866
+01,Food and Non-Alcoholic Beverages,Food and drink,2025-05-01,726.3791964128726,48.53550617547509
+01,Food and Non-Alcoholic Beverages,Food and drink,2025-06-01,1388.375713113966,91.13649178972574
+01,Food and Non-Alcoholic Beverages,Food and drink,2025-07-01,1468.4679146612573,5.76876999437377
+01,Food and Non-Alcoholic Beverages,Food and drink,2025-08-01,975.4180683598613,-33.57579974194613
+01,Food and Non-Alcoholic Beverages,Food and drink,2025-09-01,823.8750272981221,-15.536214263136898
+01,Food and Non-Alcoholic Beverages,Food and drink,2025-10-01,573.8898465955292,-30.3426093059785
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2022-12-01,111.01849919114345,
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-01-01,111.15617598980997,0.12401248410813537
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-02-01,112.14422169153289,0.8888806158764453
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-03-01,111.60671008957225,-0.4793038766091229
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-04-01,111.73567067457817,0.11554913221833374
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-05-01,111.74539020888498,0.008698685252554128
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-06-01,112.5058628704325,0.6805405217396014
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-07-01,114.68433223860946,1.936316306187365
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-08-01,113.55926030731102,-0.9810162463671475
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-09-01,113.92347518918517,0.3207267121047863
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-10-01,114.39923178397348,0.4176106759368423
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-11-01,258.42078795250404,125.89381407778558
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-12-01,212.4815016541513,-17.77693143896616
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2024-01-01,272.3930637562208,28.196130785815626
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2024-02-01,893.0337298388797,
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2024-03-01,1896.62319535696,112.37979395236809
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2024-04-01,2124.7281669178437,12.026899814327791
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2024-05-01,4165.828534029372,96.06407063696875
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2024-06-01,4327.799655202125,3.8880890043759564
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2024-07-01,4435.32961571417,2.484633510767793
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2024-08-01,4412.992541133048,-0.503617014212054
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2024-09-01,3859.846337056654,-12.534492159698317
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2024-10-01,3859.846337056654,0.0
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2024-11-01,6926.142364681222,79.44088338922808
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2024-12-01,8549.875458704284,23.44354199681247
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-01-01,1980.1063218841014,-76.84052438602208
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-02-01,877.4658433917715,-55.68592283686821
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-03-01,1559.9676441472004,77.78101061088313
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-04-01,3794.786176948455,143.26056961412044
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-05-01,7442.756288949913,96.13111100069787
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-06-01,2534.24784438199,-65.9501433878128
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-07-01,2863.0527004168584,12.974455389743127
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-08-01,2439.1966463964,-14.804339925658567
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-09-01,855.2562840328374,-64.93696868203025
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-10-01,428.32330766982335,-49.91871843956215
+03,Clothing and Footwear,Clothing,2022-12-01,97.12722939085009,
+03,Clothing and Footwear,Clothing,2023-01-01,97.82247721719531,0.715811447217817
+03,Clothing and Footwear,Clothing,2023-02-01,98.07363314761811,0.2567466471587636
+03,Clothing and Footwear,Clothing,2023-03-01,97.03996596782757,-1.0539705184926618
+03,Clothing and Footwear,Clothing,2023-04-01,97.7451828265919,0.7267282626604867
+03,Clothing and Footwear,Clothing,2023-05-01,97.76852096131802,0.023876506290363864
+03,Clothing and Footwear,Clothing,2023-06-01,98.01213822010085,0.24917760480309425
+03,Clothing and Footwear,Clothing,2023-07-01,99.93442337507312,1.9612725422391009
+03,Clothing and Footwear,Clothing,2023-08-01,99.43141562872285,-0.5033378183035069
+03,Clothing and Footwear,Clothing,2023-09-01,98.88375266844226,-0.5507946928217962
+03,Clothing and Footwear,Clothing,2023-10-01,99.06573158884585,0.1840331859307156
+03,Clothing and Footwear,Clothing,2023-11-01,101.2840631081843,2.239252144773161
+03,Clothing and Footwear,Clothing,2023-12-01,102.12987808249382,0.8350918677167272
+03,Clothing and Footwear,Clothing,2024-01-01,103.22995297219569,1.0771332643845
+03,Clothing and Footwear,Clothing,2024-02-01,104.91073484906023,
+03,Clothing and Footwear,Clothing,2024-03-01,106.52525284278914,1.538944509398192
+03,Clothing and Footwear,Clothing,2024-04-01,108.2411713661905,1.6108091533316724
+03,Clothing and Footwear,Clothing,2024-05-01,109.76561888708248,1.4083804726527092
+03,Clothing and Footwear,Clothing,2024-06-01,111.25791966085978,1.3595338767346163
+03,Clothing and Footwear,Clothing,2024-07-01,112.87512822645925,1.453567144279802
+03,Clothing and Footwear,Clothing,2024-08-01,114.46969688128569,1.4126838036695517
+03,Clothing and Footwear,Clothing,2024-09-01,116.04491095128998,1.3760970046403855
+03,Clothing and Footwear,Clothing,2024-10-01,117.60337711651994,1.3429853601112427
+03,Clothing and Footwear,Clothing,2024-11-01,208.91637219587608,77.64487493321249
+03,Clothing and Footwear,Clothing,2024-12-01,185.52428771844484,-11.19686515305716
+03,Clothing and Footwear,Clothing,2025-01-01,180.22496192269102,-2.856405412425673
+03,Clothing and Footwear,Clothing,2025-02-01,171.03870676958906,-5.097104782323385
+03,Clothing and Footwear,Clothing,2025-03-01,170.84262162254691,-0.11464372640884335
+03,Clothing and Footwear,Clothing,2025-04-01,171.00267888101658,0.0936869599339758
+03,Clothing and Footwear,Clothing,2025-05-01,171.25848637907276,0.14959268458838437
+03,Clothing and Footwear,Clothing,2025-06-01,171.25848637907276,0.0
+03,Clothing and Footwear,Clothing,2025-07-01,171.25848637907276,0.0
+03,Clothing and Footwear,Clothing,2025-08-01,171.25848637907276,0.0
+03,Clothing and Footwear,Clothing,2025-09-01,171.25848637907276,0.0
+03,Clothing and Footwear,Clothing,2025-10-01,158.1712424879591,-7.641807520209923
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2022-12-01,108.02790198448949,
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-01-01,108.14102650910885,0.10471787616093309
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-02-01,108.25308564730075,0.10362315007472489
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-03-01,106.64842254072954,-1.4823255124563985
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-04-01,106.9208615586604,0.2554552720428944
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-05-01,106.86090181264959,-0.056078622204069006
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-06-01,106.41926921991234,-0.41327799526858655
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-07-01,106.89408691341347,0.44617642742869634
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-08-01,107.48765944720246,0.555290335441839
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-09-01,106.99963083823404,-0.4540322223763269
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-10-01,107.05454287548001,0.051319838036633314
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-11-01,198.4433732997668,85.36660656296041
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-12-01,175.89972482620828,-11.36024252092524
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2024-01-01,131.6552807211957,-25.15321962483273
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2024-02-01,134.59865472998396,
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2024-03-01,156.56637951864377,16.32090962032933
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2024-04-01,139.94565413714966,-10.615769127825388
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2024-05-01,261.2443603076323,86.67557911559538
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2024-06-01,380.26044781401794,45.557380594259115
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2024-07-01,219.76222364547502,-42.20744626247356
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2024-08-01,188.75914545890802,-14.107555735594403
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2024-09-01,192.04527495927556,1.740911409817187
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2024-10-01,329.0523778905688,71.34104338695471
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2024-11-01,328.04196824719213,-0.3070665071178098
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2024-12-01,320.76418769214496,-2.2185516670120364
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-01-01,312.24590033230965,-2.655622942549556
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-02-01,157.05586312171414,-49.70122491454124
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-03-01,482.9309608646653,207.48992827501547
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-04-01,1018.1343542838904,110.82399696655781
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-05-01,1105.0497685705739,8.536733282889358
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-06-01,1099.8331799102766,-0.4720682098368343
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-07-01,1101.790562852499,0.17797089394795762
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-08-01,1104.533636406913,0.24896506168217059
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-09-01,1405.6771499113297,27.26431351462027
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-10-01,300.66012867937485,-78.61101116295868
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2022-12-01,100.72522114172789,
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-01-01,100.00206755716056,-0.7179468819927308
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-02-01,100.76855833694032,0.7664749324724198
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-03-01,101.16863707764296,0.39702735387450616
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-04-01,101.22661553398892,0.057308725333001576
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-05-01,101.4550413359669,0.2256578477636424
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-06-01,101.00315785459733,-0.44540268814553485
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-07-01,101.8344057902345,0.8229920264808186
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-08-01,102.57502679548271,0.7272797435218479
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-09-01,103.33901744412925,0.7448115516165643
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-10-01,102.97162398876254,-0.35552249716845097
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-11-01,104.06288832057128,1.059771895923305
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-12-01,108.80252270366014,4.5545866154398595
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2024-01-01,112.00539310982911,2.9437464560380278
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2024-02-01,116.21020559225757,
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2024-03-01,121.6259562069984,4.660305510294748
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2024-04-01,125.56434350010076,3.2381141459636495
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2024-05-01,124.92261569117791,-0.5110748728776855
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2024-06-01,140.39866113095025,12.388505759462149
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2024-07-01,155.91156691126034,11.049183557271363
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2024-08-01,196.8159686833079,26.235642795719542
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2024-09-01,164.00281996930534,-16.671995130030055
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2024-10-01,164.45243064050382,0.27414813433246366
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2024-11-01,153.0140562088096,-6.955430447056585
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2024-12-01,148.15403443064312,-3.176193023426734
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-01-01,132.6725343179973,-10.449597388381164
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-02-01,117.61242446463542,-11.351339544976895
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-03-01,122.39001202935523,4.062145293294563
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-04-01,167.00532434201773,36.45339319189014
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-05-01,165.67560467731334,-0.7962139350606492
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-06-01,165.67560467731334,0.0
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-07-01,162.18496276174122,-2.1069136414928806
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-08-01,155.15354279299228,-4.33543273618929
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-09-01,186.64869844325963,20.299346752454483
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-10-01,148.74012242900275,-20.31012074042451
+06,Health,Health,2022-12-01,88.01551787735177,
+06,Health,Health,2023-01-01,88.12661746551316,0.12622727314541748
+06,Health,Health,2023-02-01,88.84443627201223,0.8145312133192704
+06,Health,Health,2023-03-01,87.66175464676634,-1.3311825420613985
+06,Health,Health,2023-04-01,87.81205775143144,0.17145801526645243
+06,Health,Health,2023-05-01,88.19886162595847,0.44049061647312726
+06,Health,Health,2023-06-01,88.82937572857195,0.7148778238061766
+06,Health,Health,2023-07-01,88.82503856885545,-0.004882573676695756
+06,Health,Health,2023-08-01,88.65465673796427,-0.19181734523998273
+06,Health,Health,2023-09-01,89.37336060608087,0.8106780789201622
+06,Health,Health,2023-10-01,89.21506582713674,-0.177116288198917
+06,Health,Health,2023-11-01,97.30023290627453,9.0625579930677
+06,Health,Health,2023-12-01,105.07029580484743,7.985657039544279
+06,Health,Health,2024-01-01,112.69251977859368,7.2544042208688495
+06,Health,Health,2024-02-01,120.46042941214998,
+06,Health,Health,2024-03-01,128.31774313699157,6.522734281444514
+06,Health,Health,2024-04-01,136.36859334295647,6.274151967721139
+06,Health,Health,2024-05-01,144.3571559013502,5.858066261857758
+06,Health,Health,2024-06-01,152.30671552030537,5.506869104838614
+06,Health,Health,2024-07-01,160.22836900245403,5.20111897567152
+06,Health,Health,2024-08-01,168.12872442393615,4.930684541487864
+06,Health,Health,2024-09-01,176.01219270037762,4.688947890048411
+06,Health,Health,2024-10-01,183.88192325587295,4.471128070594418
+06,Health,Health,2024-11-01,183.88192325587295,0.0
+06,Health,Health,2024-12-01,183.88192325587295,0.0
+06,Health,Health,2025-01-01,183.88192325587295,0.0
+06,Health,Health,2025-02-01,183.88192325587295,0.0
+06,Health,Health,2025-03-01,183.88192325587295,0.0
+06,Health,Health,2025-04-01,183.88192325587295,0.0
+06,Health,Health,2025-05-01,183.88192325587295,0.0
+06,Health,Health,2025-06-01,183.88192325587295,0.0
+06,Health,Health,2025-07-01,183.88192325587295,0.0
+06,Health,Health,2025-08-01,183.88192325587295,0.0
+06,Health,Health,2025-09-01,183.88192325587295,0.0
+06,Health,Health,2025-10-01,183.88192325587295,0.0
+07,Transport ,Transport,2022-12-01,99.13461708914726,
+07,Transport ,Transport,2023-01-01,99.46510689794901,0.333374777152315
+07,Transport ,Transport,2023-02-01,99.50512824349418,0.040236568172829834
+07,Transport ,Transport,2023-03-01,104.65239603923548,5.172866852797455
+07,Transport ,Transport,2023-04-01,104.56917998263471,-0.07951662814254234
+07,Transport ,Transport,2023-05-01,104.36348412545154,-0.19670791835351054
+07,Transport ,Transport,2023-06-01,101.27577678624931,-2.958608909118638
+07,Transport ,Transport,2023-07-01,101.23312305753582,-0.042116417239157045
+07,Transport ,Transport,2023-08-01,101.6735834771831,0.43509516089605427
+07,Transport ,Transport,2023-09-01,105.20742895641196,3.4756771212080935
+07,Transport ,Transport,2023-10-01,225.2469147169124,114.09791775277913
+07,Transport ,Transport,2023-11-01,256.3502391166103,13.808546251915658
+07,Transport ,Transport,2023-12-01,269.1976016425957,5.011644447946594
+07,Transport ,Transport,2024-01-01,379.25393153792896,40.88310193842338
+07,Transport ,Transport,2024-02-01,402.2938521378582,
+07,Transport ,Transport,2024-03-01,454.3272916901572,12.93418710621215
+07,Transport ,Transport,2024-04-01,443.7391178650627,-2.3305167923558088
+07,Transport ,Transport,2024-05-01,482.1864820161794,8.664407216586255
+07,Transport ,Transport,2024-06-01,386.61817649656143,-19.819781160188413
+07,Transport ,Transport,2024-07-01,426.69828710864556,10.366845908612007
+07,Transport ,Transport,2024-08-01,435.9956118754866,2.1788990131272215
+07,Transport ,Transport,2024-09-01,421.90212554404513,-3.2324835267989727
+07,Transport ,Transport,2024-10-01,410.45327329304786,-2.7136275353516908
+07,Transport ,Transport,2024-11-01,421.9554522556417,2.8023114227625427
+07,Transport ,Transport,2024-12-01,407.6456124706191,-3.391315293718023
+07,Transport ,Transport,2025-01-01,334.0711752259303,-18.048627286523697
+07,Transport ,Transport,2025-02-01,395.28495999665023,18.323575725837898
+07,Transport ,Transport,2025-03-01,328.6872722524186,-16.84801965265666
+07,Transport ,Transport,2025-04-01,506.5524243395949,54.113793597271695
+07,Transport ,Transport,2025-05-01,401.13211671812905,-20.811332165452555
+07,Transport ,Transport,2025-06-01,565.9123592825739,41.0787956627851
+07,Transport ,Transport,2025-07-01,629.2003041019454,11.183347347211821
+07,Transport ,Transport,2025-08-01,755.2308619343304,20.030276052117884
+07,Transport ,Transport,2025-09-01,706.3407362739092,-6.473533872172766
+07,Transport ,Transport,2025-10-01,564.7416343618478,-20.046854816702975
+08,Information and Communication,Information and Communication,2022-12-01,101.84629761014726,
+08,Information and Communication,Information and Communication,2023-01-01,101.42194166135715,-0.41666310778863647
+08,Information and Communication,Information and Communication,2023-02-01,101.66495012619269,0.2396014716883741
+08,Information and Communication,Information and Communication,2023-03-01,102.40615802495877,0.7290692592147394
+08,Information and Communication,Information and Communication,2023-04-01,101.86048158957435,-0.5328550996429584
+08,Information and Communication,Information and Communication,2023-05-01,100.94160294868851,-0.9020953234722242
+08,Information and Communication,Information and Communication,2023-06-01,100.62236061967758,-0.31626437433652654
+08,Information and Communication,Information and Communication,2023-07-01,100.43460898343494,-0.18659037125186728
+08,Information and Communication,Information and Communication,2023-08-01,99.94367724343986,-0.48880733938641185
+08,Information and Communication,Information and Communication,2023-09-01,101.45587656803741,1.5130515169200436
+08,Information and Communication,Information and Communication,2023-10-01,101.59323302166781,0.1353854091815947
+08,Information and Communication,Information and Communication,2023-11-01,101.59323302166781,0.0
+08,Information and Communication,Information and Communication,2023-12-01,101.59323302166781,0.0
+08,Information and Communication,Information and Communication,2024-01-01,101.59323302166781,0.0
+08,Information and Communication,Information and Communication,2024-02-01,101.59323302166781,
+08,Information and Communication,Information and Communication,2024-03-01,101.59323302166781,0.0
+08,Information and Communication,Information and Communication,2024-04-01,101.59323302166781,0.0
+08,Information and Communication,Information and Communication,2024-05-01,101.59323302166781,0.0
+08,Information and Communication,Information and Communication,2024-06-01,101.59323302166781,0.0
+08,Information and Communication,Information and Communication,2024-07-01,101.59323302166781,0.0
+08,Information and Communication,Information and Communication,2024-08-01,101.59323302166781,0.0
+08,Information and Communication,Information and Communication,2024-09-01,101.59323302166781,0.0
+08,Information and Communication,Information and Communication,2024-10-01,101.59323302166781,0.0
+08,Information and Communication,Information and Communication,2024-11-01,101.59323302166781,0.0
+08,Information and Communication,Information and Communication,2024-12-01,99.78153946753449,-1.783281720886805
+08,Information and Communication,Information and Communication,2025-01-01,99.78153946753449,0.0
+08,Information and Communication,Information and Communication,2025-02-01,99.78153946753449,0.0
+08,Information and Communication,Information and Communication,2025-03-01,99.78153946753449,0.0
+08,Information and Communication,Information and Communication,2025-04-01,99.78153946753449,0.0
+08,Information and Communication,Information and Communication,2025-05-01,99.78153946753449,0.0
+08,Information and Communication,Information and Communication,2025-06-01,100.2155213442522,0.4349320315496925
+08,Information and Communication,Information and Communication,2025-07-01,100.2155213442522,0.0
+08,Information and Communication,Information and Communication,2025-08-01,100.2155213442522,0.0
+08,Information and Communication,Information and Communication,2025-09-01,100.42400713168996,0.208037422388486
+08,Information and Communication,Information and Communication,2025-10-01,100.42400713168996,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2022-12-01,118.44756340525156,
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-01-01,117.04530120729677,-1.1838674917753593
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-02-01,123.33191964689323,5.371098518907928
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-03-01,120.9572589462873,-1.925422637874064
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-04-01,120.2686822294974,-0.5692727520352179
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-05-01,126.3153327985632,5.027618542895112
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-06-01,127.30958503129199,0.7871191966175104
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-07-01,128.83820182311226,1.200708329576699
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-08-01,131.83062679228647,2.3226224262914172
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-09-01,127.04674237348331,-3.628811100428649
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-10-01,129.3030096128329,1.7759347443296036
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-11-01,129.3030096128329,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-12-01,129.3030096128329,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2024-01-01,129.3030096128329,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2024-02-01,129.3030096128329,
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2024-03-01,129.3030096128329,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2024-04-01,129.3030096128329,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2024-05-01,129.3030096128329,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2024-06-01,129.3030096128329,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2024-07-01,129.3030096128329,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2024-08-01,129.3030096128329,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2024-09-01,129.3030096128329,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2024-10-01,129.3030096128329,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2024-11-01,129.3030096128329,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2024-12-01,132.2039984046443,2.2435585996781526
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-01-01,132.2039984046443,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-02-01,132.2039984046443,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-03-01,132.2039984046443,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-04-01,132.2039984046443,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-05-01,132.2039984046443,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-06-01,132.2039984046443,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-07-01,132.2039984046443,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-08-01,132.2039984046443,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-09-01,132.2039984046443,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-10-01,132.2039984046443,0.0
+10,Education Services,Education,2022-12-01,97.68701779723717,
+10,Education Services,Education,2023-01-01,97.68701779723717,0.0
+10,Education Services,Education,2023-02-01,97.68701779723717,0.0
+10,Education Services,Education,2023-03-01,98.36884956941319,0.6979758288775457
+10,Education Services,Education,2023-04-01,98.36884956941319,0.0
+10,Education Services,Education,2023-05-01,98.36884956941319,0.0
+10,Education Services,Education,2023-06-01,99.7900159840513,1.444732169644098
+10,Education Services,Education,2023-07-01,99.7900159840513,0.0
+10,Education Services,Education,2023-08-01,99.7900159840513,0.0
+10,Education Services,Education,2023-09-01,102.39594993741784,2.61141751273297
+10,Education Services,Education,2023-10-01,102.39594993741784,0.0
+10,Education Services,Education,2023-11-01,102.39594993741784,0.0
+10,Education Services,Education,2023-12-01,102.39594993741784,0.0
+10,Education Services,Education,2024-01-01,102.39594993741784,0.0
+10,Education Services,Education,2024-02-01,102.39594993741784,
+10,Education Services,Education,2024-03-01,102.39594993741784,0.0
+10,Education Services,Education,2024-04-01,102.39594993741784,0.0
+10,Education Services,Education,2024-05-01,102.39594993741784,0.0
+10,Education Services,Education,2024-06-01,102.39594993741784,0.0
+10,Education Services,Education,2024-07-01,102.39594993741784,0.0
+10,Education Services,Education,2024-08-01,102.39594993741784,0.0
+10,Education Services,Education,2024-09-01,102.39594993741784,0.0
+10,Education Services,Education,2024-10-01,102.39594993741784,0.0
+10,Education Services,Education,2024-11-01,102.39594993741784,0.0
+10,Education Services,Education,2024-12-01,102.39594993741784,0.0
+10,Education Services,Education,2025-01-01,102.39594993741784,0.0
+10,Education Services,Education,2025-02-01,102.39594993741784,0.0
+10,Education Services,Education,2025-03-01,102.39594993741784,0.0
+10,Education Services,Education,2025-04-01,102.39594993741784,0.0
+10,Education Services,Education,2025-05-01,102.39594993741784,0.0
+10,Education Services,Education,2025-06-01,102.39594993741784,0.0
+10,Education Services,Education,2025-07-01,102.39594993741784,0.0
+10,Education Services,Education,2025-08-01,102.39594993741784,0.0
+10,Education Services,Education,2025-09-01,102.39594993741784,0.0
+10,Education Services,Education,2025-10-01,102.39594993741784,0.0
+11,Resturants and Accomodation Services,Hospitality,2022-12-01,100.4355252249541,
+11,Resturants and Accomodation Services,Hospitality,2023-01-01,100.4972486280171,0.06145574777922036
+11,Resturants and Accomodation Services,Hospitality,2023-02-01,102.76946310730283,2.260971827891666
+11,Resturants and Accomodation Services,Hospitality,2023-03-01,100.46624084978347,-2.241154315571862
+11,Resturants and Accomodation Services,Hospitality,2023-04-01,101.2760638749698,0.8060648217117716
+11,Resturants and Accomodation Services,Hospitality,2023-05-01,101.98122176505409,0.6962730018366727
+11,Resturants and Accomodation Services,Hospitality,2023-06-01,101.75677271830139,-0.22008860343896686
+11,Resturants and Accomodation Services,Hospitality,2023-07-01,102.29408830468466,0.528039138850005
+11,Resturants and Accomodation Services,Hospitality,2023-08-01,101.61872528942017,-0.6602170530645992
+11,Resturants and Accomodation Services,Hospitality,2023-09-01,104.65811335628439,2.9909724395850645
+11,Resturants and Accomodation Services,Hospitality,2023-10-01,104.75992557054833,0.09728076591382262
+11,Resturants and Accomodation Services,Hospitality,2023-11-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2023-12-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2024-01-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2024-02-01,104.75992557054833,
+11,Resturants and Accomodation Services,Hospitality,2024-03-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2024-04-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2024-05-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2024-06-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2024-07-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2024-08-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2024-09-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2024-10-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2024-11-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2024-12-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2025-01-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2025-02-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2025-03-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2025-04-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2025-05-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2025-06-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2025-07-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2025-08-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2025-09-01,104.75992557054833,0.0
+11,Resturants and Accomodation Services,Hospitality,2025-10-01,104.75992557054833,0.0
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2022-12-01,104.9079576743716,
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-01-01,104.94143856797609,0.031914541419638454
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-02-01,105.25331143851726,0.2971875312526322
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-03-01,111.43707878060292,5.8751285423431625
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-04-01,111.72094157403009,0.2547292126941443
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-05-01,111.94599820652681,0.20144534169324402
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-06-01,111.91202637788834,-0.03034662174863456
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-07-01,111.8348217135956,-0.06898692373958681
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-08-01,111.83581338648132,0.0008867299741837087
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-09-01,111.55870435884991,-0.24778201118257925
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-10-01,111.88434831205768,0.2919036708783267
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-11-01,112.51366835363248,0.5624737070636172
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-12-01,114.13761679591184,1.443334366430264
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2024-01-01,118.95746841037086,4.222842345724942
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2024-02-01,122.98539137365178,
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2024-03-01,123.02328124884532,0.030808435677059265
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2024-04-01,121.21433104388346,-1.4704129060765325
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2024-05-01,119.59478166371258,-1.3361038799814366
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2024-06-01,127.0473409547618,6.231508755963105
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2024-07-01,130.29187765471778,2.5538013433207425
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2024-08-01,135.39137077756206,3.91389948064014
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2024-09-01,136.48319150552666,0.8064182537588636
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2024-10-01,134.30531091180654,-1.5957134132754618
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2024-11-01,133.97861958091372,-0.2432452809757848
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2024-12-01,129.56258711330096,-3.2960725236803654
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-01-01,123.88636364085623,-4.381066787035465
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-02-01,119.1761976033631,-3.8020052401794686
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-03-01,117.23664472580265,-1.627466655729009
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-04-01,138.4580688473587,18.10135744774128
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-05-01,145.59283547828716,5.1530161371773175
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-06-01,152.9502591531161,5.053424264084882
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-07-01,169.88026380724227,11.068961077848073
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-08-01,178.9784097481016,5.355622682092559
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-09-01,151.6349803452971,-15.277501594347768
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-10-01,122.26260760734586,-19.370446496623444
+12,Insurance and Financial Services,Financial services,2022-12-01,100.99591680860566,
+12,Insurance and Financial Services,Financial services,2023-01-01,100.97576705960441,-0.01995105310983547
+12,Insurance and Financial Services,Financial services,2023-02-01,101.39746787173436,0.4176257575552995
+12,Insurance and Financial Services,Financial services,2023-03-01,101.97541558774661,0.5699823951652832
+12,Insurance and Financial Services,Financial services,2023-04-01,102.31405457707405,0.33207904804864086
+12,Insurance and Financial Services,Financial services,2023-05-01,102.86719594283038,0.5406308723105582
+12,Insurance and Financial Services,Financial services,2023-06-01,102.63753357678,-0.2232610347209345
+12,Insurance and Financial Services,Financial services,2023-07-01,102.79138880866734,0.1499015287348442
+12,Insurance and Financial Services,Financial services,2023-08-01,102.7183077125558,-0.0710965159227186
+12,Insurance and Financial Services,Financial services,2023-09-01,102.1307374751993,-0.5720209478146216
+12,Insurance and Financial Services,Financial services,2023-10-01,102.66033946338726,0.5185529853992961
+12,Insurance and Financial Services,Financial services,2023-11-01,101.98450582095097,-0.6583200932014535
+12,Insurance and Financial Services,Financial services,2023-12-01,101.45135189497825,-0.5227793395486486
+12,Insurance and Financial Services,Financial services,2024-01-01,101.33302696197404,-0.11663218951156296
+12,Insurance and Financial Services,Financial services,2024-02-01,101.12359072674997,
+12,Insurance and Financial Services,Financial services,2024-03-01,101.6326520258839,0.5034050862666533
+12,Insurance and Financial Services,Financial services,2024-04-01,102.00056364259108,0.36200139362050265
+12,Insurance and Financial Services,Financial services,2024-05-01,101.00084935153617,-0.9801066340749713
+12,Insurance and Financial Services,Financial services,2024-06-01,101.23590914145169,0.23273050813401142
+12,Insurance and Financial Services,Financial services,2024-07-01,101.01806547066514,-0.21518418971490405
+12,Insurance and Financial Services,Financial services,2024-08-01,101.37063210399052,0.3490134479240794
+12,Insurance and Financial Services,Financial services,2024-09-01,101.34736627496912,-0.02295125179601598
+12,Insurance and Financial Services,Financial services,2024-10-01,101.44829161558442,0.09958358497593167
+12,Insurance and Financial Services,Financial services,2024-11-01,101.32629188834078,-0.1202580401313611
+12,Insurance and Financial Services,Financial services,2024-12-01,100.99318154034493,-0.32875016127395895
+12,Insurance and Financial Services,Financial services,2025-01-01,100.95931757091505,-0.03353094626132247
+12,Insurance and Financial Services,Financial services,2025-02-01,100.68894150130315,-0.26780695047980885
+12,Insurance and Financial Services,Financial services,2025-03-01,101.02792935172052,0.3366684020737125
+12,Insurance and Financial Services,Financial services,2025-04-01,101.23194789738048,0.20194271719624624
+12,Insurance and Financial Services,Financial services,2025-05-01,100.67498306143675,-0.5501868209711063
+12,Insurance and Financial Services,Financial services,2025-06-01,100.35454966786271,-0.3182850235777863
+12,Insurance and Financial Services,Financial services,2025-07-01,99.73797200544114,-0.6143993117025843
+12,Insurance and Financial Services,Financial services,2025-08-01,99.41872128240779,-0.3200894469920996
+12,Insurance and Financial Services,Financial services,2025-09-01,99.55845029704089,0.14054597849452932
+12,Insurance and Financial Services,Financial services,2025-10-01,99.31197614954662,-0.24756728008409823
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2022-12-01,106.9359406460547,
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-01-01,106.9972234041327,0.05730791510110578
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-02-01,107.25216200353519,0.23826655616994685
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-03-01,116.3419589946179,8.475164342871793
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-04-01,116.59742607431124,0.21958292769090804
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-05-01,116.65240517562926,0.047152928815918926
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-06-01,116.71987837049853,0.05784123762188642
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-07-01,116.52289337901323,-0.16876730359504677
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-08-01,116.5622840153419,0.03380506198087119
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-09-01,116.44611656994196,-0.09966126383098128
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-10-01,116.66602966908393,0.18885395719476605
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-11-01,117.9719350371992,1.1193535700318336
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-12-01,120.71411486332586,2.324434048879496
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2024-01-01,128.09389319968005,6.113434493314784
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2024-02-01,134.31844257723807,
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2024-03-01,134.11207947622768,-0.15363720502620026
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2024-04-01,131.17465468280122,-2.190276077217291
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2024-05-01,129.233785804928,-1.4796066226105324
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2024-06-01,140.42786175918945,8.661880393381296
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2024-07-01,145.4672796156287,3.5886168124392697
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2024-08-01,153.02755635983502,5.197235257429014
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2024-09-01,154.6974325394462,1.0912258022892019
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2024-10-01,151.33823002471956,-2.171466235465843
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2024-11-01,150.9054275613282,-0.28598356365121447
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2024-12-01,144.37282811054558,-4.32893604713307
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-01-01,135.7716328944869,-5.957627434902619
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-02-01,128.75990131571723,-5.164356816875554
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-03-01,125.63916399883706,-2.4236872543325205
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-04-01,157.7559090230621,25.56268603038643
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-05-01,168.8780318634001,7.050209978956843
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-06-01,180.21561932690392,6.713476784638516
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-07-01,206.24168697479627,14.441627060461443
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-08-01,220.2217655761981,6.77849313902783
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-09-01,178.63120042223878,-18.885765012890488
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-10-01,134.16010341141347,-24.895481251711303
