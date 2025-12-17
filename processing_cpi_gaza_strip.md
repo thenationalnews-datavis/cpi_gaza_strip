@@ -1,6 +1,6 @@
 # Data processing: Consumer Price Index (CPI) in the Gaza Strip
 
-November 17, 2025
+December 17, 2025
 
 By [Isaac Arroyo](https://github.com/isaacarroyov), Data Visualisation Journalist
 
@@ -238,21 +238,21 @@ db_cpi_major_groups.to_csv(path_or_buf= path2_output_data + '/long_cpi_gaza_stri
 
 | code_good_service | name_good_service | short_name_good_service | date_month | cpi_index | pct_change |
 |:---|:---|:---|:---|---:|---:|
-| 0999 | All items of consumer price index | All items | 2025-10-01 00:00:00 | 338.621 | -40.4223 |
-| 01 | Food and Non-Alcoholic Beverages | Food and drink | 2025-10-01 00:00:00 | 573.89 | -30.3426 |
-| 02 | Alcholoic Beverages, Tobacco and Narcotics | Alcoholic beverages and tobacco | 2025-10-01 00:00:00 | 428.323 | -49.9187 |
-| 03 | Clothing and Footwear | Clothing | 2025-10-01 00:00:00 | 158.171 | -7.64181 |
-| 04 | Housing, Water, Electricity, Gas and Other Fuels | Housing expenses | 2025-10-01 00:00:00 | 300.66 | -78.611 |
-| 05 | Furnishings, Household Equipment and Routine Houshold Maintenance | Houshold equipement and maintenance | 2025-10-01 00:00:00 | 148.74 | -20.3101 |
-| 06 | Health | Health | 2025-10-01 00:00:00 | 183.882 | 0 |
-| 07 | Transport | Transport | 2025-10-01 00:00:00 | 564.742 | -20.0469 |
-| 08 | Information and Communication | Information and Communication | 2025-10-01 00:00:00 | 100.424 | 0 |
-| 09 | Recreation, Sport, Culture, Gardens and Pets | Recreation | 2025-10-01 00:00:00 | 132.204 | 0 |
-| 10 | Education Services | Education | 2025-10-01 00:00:00 | 102.396 | 0 |
-| 11 | Resturants and Accomodation Services | Hospitality | 2025-10-01 00:00:00 | 104.76 | 0 |
-| 12+13 | Miscellaneous Goods and Services (12+13) | Miscellaneous | 2025-10-01 00:00:00 | 122.263 | -19.3704 |
-| 12 | Insurance and Financial Services | Financial services | 2025-10-01 00:00:00 | 99.312 | -0.247567 |
-| 13 | Personal Care, Social Protection and Miscellaneous Goods and Services | Personal care and miscellaneous | 2025-10-01 00:00:00 | 134.16 | -24.8955 |
+| 0999 | All items of consumer price index | All items | 2025-11-01 00:00:00 | 221.128 | -34.6974 |
+| 01 | Food and Non-Alcoholic Beverages | Food and drink | 2025-11-01 00:00:00 | 256.901 | -55.2351 |
+| 02 | Alcholoic Beverages, Tobacco and Narcotics | Alcoholic beverages and tobacco | 2025-11-01 00:00:00 | 475.688 | 11.0581 |
+| 03 | Clothing and Footwear | Clothing | 2025-11-01 00:00:00 | 132.926 | -15.961 |
+| 04 | Housing, Water, Electricity, Gas and Other Fuels | Housing expenses | 2025-11-01 00:00:00 | 308.256 | 2.5264 |
+| 05 | Furnishings, Household Equipment and Routine Houshold Maintenance | Houshold equipement and maintenance | 2025-11-01 00:00:00 | 119.196 | -19.8629 |
+| 06 | Health | Health | 2025-11-01 00:00:00 | 183.882 | 0 |
+| 07 | Transport | Transport | 2025-11-01 00:00:00 | 404.691 | -28.3404 |
+| 08 | Information and Communication | Information and Communication | 2025-11-01 00:00:00 | 100.424 | 0 |
+| 09 | Recreation, Sport, Culture, Gardens and Pets | Recreation | 2025-11-01 00:00:00 | 132.204 | 0 |
+| 10 | Education Services | Education | 2025-11-01 00:00:00 | 102.396 | 0 |
+| 11 | Resturants and Accomodation Services | Hospitality | 2025-11-01 00:00:00 | 104.76 | 0 |
+| 12+13 | Miscellaneous Goods and Services (12+13) | Miscellaneous | 2025-11-01 00:00:00 | 118.16 | -3.35574 |
+| 12 | Insurance and Financial Services | Financial services | 2025-11-01 00:00:00 | 99.2108 | -0.101922 |
+| 13 | Personal Care, Social Protection and Miscellaneous Goods and Services | Personal care and miscellaneous | 2025-11-01 00:00:00 | 127.983 | -4.60437 |
 
 ## CPI by divisions
 
@@ -324,16 +324,16 @@ db_cpi_major_divisions.to_csv(path_or_buf= path2_output_data + '/long_cpi_gaza_s
 
 | code_good_service | name_good_service | date_month | cpi_index | pct_change |
 |---:|:---|:---|---:|---:|
-| 04522 | Liquefied hydrocarbons | 2025-10-01 00:00:00 | 742.758 | -88.9286 |
-| 04530 | Liquid fuels | 2025-10-01 00:00:00 | 1299.31 | -38.7179 |
-| 0454 | Solid fuels | 2025-10-01 00:00:00 | 270.446 | 0 |
-| 04541 | Coal, coal briquettes and peat | 2025-10-01 00:00:00 | 270.446 | 0 |
-| 07 | TRANSPORT | 2025-10-01 00:00:00 | 564.742 | -20.0469 |
-| 0722 | Fuels and lubricants for personal transport equipment | 2025-10-01 00:00:00 | 3975.66 | -28.0504 |
-| 07221 | Diesel | 2025-10-01 00:00:00 | 1299.25 | -38.7179 |
-| 07222 | Petrol | 2025-10-01 00:00:00 | 4162.94 | -27.8378 |
-| 073 | PASSENGER TRANSPORT SERVICES | 2025-10-01 00:00:00 | 271.204 | 0 |
-| 0999 | Consumer Price Index | 2025-10-01 00:00:00 | 338.621 | -40.4223 |
+| 04522 | Liquefied hydrocarbons | 2025-11-01 00:00:00 | 879.329 | 18.3871 |
+| 04530 | Liquid fuels | 2025-11-01 00:00:00 | 768.866 | -40.8249 |
+| 0454 | Solid fuels | 2025-11-01 00:00:00 | 1035.75 | 282.979 |
+| 04541 | Coal, coal briquettes and peat | 2025-11-01 00:00:00 | 1035.75 | 282.979 |
+| 07 | TRANSPORT | 2025-11-01 00:00:00 | 404.691 | -28.3404 |
+| 0722 | Fuels and lubricants for personal transport equipment | 2025-11-01 00:00:00 | 2223.73 | -44.0664 |
+| 07221 | Diesel | 2025-11-01 00:00:00 | 768.831 | -40.8249 |
+| 07222 | Petrol | 2025-11-01 00:00:00 | 2325.7 | -44.1333 |
+| 073 | PASSENGER TRANSPORT SERVICES | 2025-11-01 00:00:00 | 271.204 | 0 |
+| 0999 | Consumer Price Index | 2025-11-01 00:00:00 | 221.128 | -34.6974 |
 
 ## CPI by major food groups
 
@@ -408,18 +408,18 @@ Markdown(
 
 | name_food | short_name_food | code_food | date_month | cpi_index | pct_change |
 |:---|:---|---:|:---|---:|---:|
-| Food and Non-Alcoholic Beverages | All food and drink | 01 | 2025-10-01 00:00:00 | 573.89 | -30.3426 |
-| Cereals and cereal products | Cereals | 0111 | 2025-10-01 00:00:00 | 110.879 | -51.8827 |
-| Live animals, meat and other parts of slaughtered land animals | Meat | 0112 | 2025-10-01 00:00:00 | 739.789 | -18.0951 |
-| Milk, other dairy products and eggs | Dairy products | 0114 | 2025-10-01 00:00:00 | 1571.9 | 12.4877 |
-| Oils and fats | Oils and fats | 0115 | 2025-10-01 00:00:00 | 193.728 | -29.1892 |
-| Fruits and nuts | Fruit and nuts | 0116 | 2025-10-01 00:00:00 | 765.67 | -48.7541 |
-| Vegetables, tubers, plantains, cooking bananas and pulses | Vegetables | 0117 | 2025-10-01 00:00:00 | 662.634 | -47.6204 |
-| Sugar, confectionery and desserts | Sugar | 0118 | 2025-10-01 00:00:00 | 243.282 | -36.9414 |
-| Ready-made food and other food products | Other food products | 0119 | 2025-10-01 00:00:00 | 169.665 | -38.7658 |
-| Coffee and coffee substitutes | Coffee | 0122 | 2025-10-01 00:00:00 | 474.913 | -19.0848 |
-| Water | Water | 0124 | 2025-10-01 00:00:00 | 450 | 0 |
-| Soft drinks | Soft drinks | 0126 | 2025-10-01 00:00:00 | 650.248 | 0 |
+| Food and Non-Alcoholic Beverages | All food and drink | 01 | 2025-11-01 00:00:00 | 256.901 | -55.2351 |
+| Cereals and cereal products | Cereals | 0111 | 2025-11-01 00:00:00 | 120.425 | 8.60918 |
+| Live animals, meat and other parts of slaughtered land animals | Meat | 0112 | 2025-11-01 00:00:00 | 346.639 | -53.1436 |
+| Milk, other dairy products and eggs | Dairy products | 0114 | 2025-11-01 00:00:00 | 343.071 | -78.1748 |
+| Oils and fats | Oils and fats | 0115 | 2025-11-01 00:00:00 | 143.204 | -26.0802 |
+| Fruits and nuts | Fruit and nuts | 0116 | 2025-11-01 00:00:00 | 349.182 | -54.3953 |
+| Vegetables, tubers, plantains, cooking bananas and pulses | Vegetables | 0117 | 2025-11-01 00:00:00 | 300.085 | -54.7133 |
+| Sugar, confectionery and desserts | Sugar | 0118 | 2025-11-01 00:00:00 | 171.07 | -29.6823 |
+| Ready-made food and other food products | Other food products | 0119 | 2025-11-01 00:00:00 | 195.192 | 15.0458 |
+| Coffee and coffee substitutes | Coffee | 0122 | 2025-11-01 00:00:00 | 134.937 | -71.5869 |
+| Water | Water | 0124 | 2025-11-01 00:00:00 | 250 | -44.4444 |
+| Soft drinks | Soft drinks | 0126 | 2025-11-01 00:00:00 | 178.818 | -72.5 |
 
 ## Wide format
 
@@ -478,20 +478,20 @@ df_wide_cpi_gaza_strip_groups = df_wide_cpi_gaza_strip_groups[['date_month', 'da
 df_wide_cpi_gaza_strip_groups.to_csv(path_or_buf= path2_output_data + "/wide_cpi_gaza_strip_major_groups.csv",index = False)
 ```
 
-| date_month | date_label | All items | Food and drink | Transport | Housing expenses | Health | Clothing | Houshold equipement and maintenance | Recreation | Hospitality | Education | Information and Communication | Miscellaneous |
+| date_month | date_label | All items | Transport | Housing expenses | Food and drink | Health | Clothing | Recreation | Houshold equipement and maintenance | Hospitality | Education | Information and Communication | Miscellaneous |
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 2024-11-01 00:00:00 | November 2024 | 633.473 | 710.98 | 421.955 | 328.042 | 183.882 | 208.916 | 153.014 | 129.303 | 104.76 | 102.396 | 101.593 | 133.979 |
-| 2024-12-01 00:00:00 | December 2024 | 668.514 | 638.125 | 407.646 | 320.764 | 183.882 | 185.524 | 148.154 | 132.204 | 104.76 | 102.396 | 99.7815 | 129.563 |
-| 2025-01-01 00:00:00 | January 2025 | 312.365 | 359.025 | 334.071 | 312.246 | 183.882 | 180.225 | 132.673 | 132.204 | 104.76 | 102.396 | 99.7815 | 123.886 |
-| 2025-02-01 00:00:00 | February 2025 | 208.368 | 213.255 | 395.285 | 157.056 | 183.882 | 171.039 | 117.612 | 132.204 | 104.76 | 102.396 | 99.7815 | 119.176 |
-| 2025-03-01 00:00:00 | March 2025 | 292.928 | 304.901 | 328.687 | 482.931 | 183.882 | 170.843 | 122.39 | 132.204 | 104.76 | 102.396 | 99.7815 | 117.237 |
-| 2025-04-01 00:00:00 | April 2025 | 514.354 | 489.027 | 506.552 | 1018.13 | 183.882 | 171.003 | 167.005 | 132.204 | 104.76 | 102.396 | 99.7815 | 138.458 |
-| 2025-05-01 00:00:00 | May 2025 | 736.587 | 726.379 | 401.132 | 1105.05 | 183.882 | 171.258 | 165.676 | 132.204 | 104.76 | 102.396 | 99.7815 | 145.593 |
-| 2025-06-01 00:00:00 | June 2025 | 777.426 | 1388.38 | 565.912 | 1099.83 | 183.882 | 171.258 | 165.676 | 132.204 | 104.76 | 102.396 | 100.216 | 152.95 |
-| 2025-07-01 00:00:00 | July 2025 | 824.697 | 1468.47 | 629.2 | 1101.79 | 183.882 | 171.258 | 162.185 | 132.204 | 104.76 | 102.396 | 100.216 | 169.88 |
-| 2025-08-01 00:00:00 | August 2025 | 656.957 | 975.418 | 755.231 | 1104.53 | 183.882 | 171.258 | 155.154 | 132.204 | 104.76 | 102.396 | 100.216 | 178.978 |
-| 2025-09-01 00:00:00 | September 2025 | 568.368 | 823.875 | 706.341 | 1405.68 | 183.882 | 171.258 | 186.649 | 132.204 | 104.76 | 102.396 | 100.424 | 151.635 |
-| 2025-10-01 00:00:00 | October 2025 | 338.621 | 573.89 | 564.742 | 300.66 | 183.882 | 158.171 | 148.74 | 132.204 | 104.76 | 102.396 | 100.424 | 122.263 |
+| 2024-12-01 00:00:00 | December 2024 | 668.514 | 407.646 | 320.764 | 638.125 | 183.882 | 185.524 | 132.204 | 148.154 | 104.76 | 102.396 | 99.7815 | 129.563 |
+| 2025-01-01 00:00:00 | January 2025 | 312.365 | 334.071 | 312.246 | 359.025 | 183.882 | 180.225 | 132.204 | 132.673 | 104.76 | 102.396 | 99.7815 | 123.886 |
+| 2025-02-01 00:00:00 | February 2025 | 208.368 | 395.285 | 157.056 | 213.255 | 183.882 | 171.039 | 132.204 | 117.612 | 104.76 | 102.396 | 99.7815 | 119.176 |
+| 2025-03-01 00:00:00 | March 2025 | 292.928 | 328.687 | 482.931 | 304.901 | 183.882 | 170.843 | 132.204 | 122.39 | 104.76 | 102.396 | 99.7815 | 117.237 |
+| 2025-04-01 00:00:00 | April 2025 | 514.354 | 506.552 | 1018.13 | 489.027 | 183.882 | 171.003 | 132.204 | 167.005 | 104.76 | 102.396 | 99.7815 | 138.458 |
+| 2025-05-01 00:00:00 | May 2025 | 736.587 | 401.132 | 1105.05 | 726.379 | 183.882 | 171.258 | 132.204 | 165.676 | 104.76 | 102.396 | 99.7815 | 145.593 |
+| 2025-06-01 00:00:00 | June 2025 | 777.426 | 565.912 | 1099.83 | 1388.38 | 183.882 | 171.258 | 132.204 | 165.676 | 104.76 | 102.396 | 100.216 | 152.95 |
+| 2025-07-01 00:00:00 | July 2025 | 824.697 | 629.2 | 1101.79 | 1468.47 | 183.882 | 171.258 | 132.204 | 162.185 | 104.76 | 102.396 | 100.216 | 169.88 |
+| 2025-08-01 00:00:00 | August 2025 | 656.957 | 755.231 | 1104.53 | 975.418 | 183.882 | 171.258 | 132.204 | 155.154 | 104.76 | 102.396 | 100.216 | 178.978 |
+| 2025-09-01 00:00:00 | September 2025 | 568.368 | 706.341 | 1405.68 | 823.875 | 183.882 | 171.258 | 132.204 | 186.649 | 104.76 | 102.396 | 100.424 | 151.635 |
+| 2025-10-01 00:00:00 | October 2025 | 338.621 | 564.742 | 300.66 | 573.89 | 183.882 | 158.171 | 132.204 | 148.74 | 104.76 | 102.396 | 100.424 | 122.263 |
+| 2025-11-01 00:00:00 | November 2025 | 221.128 | 404.691 | 308.256 | 256.901 | 183.882 | 132.926 | 132.204 | 119.196 | 104.76 | 102.396 | 100.424 | 118.16 |
 
 #### Cost of eating in Gaza
 
@@ -533,17 +533,17 @@ df_wide_cpi_gaza_strip_foods = df_wide_cpi_gaza_strip_foods[["date_month", "date
 df_wide_cpi_gaza_strip_foods.to_csv(path_or_buf= path2_output_data + "/wide_cpi_gaza_strip_major_foods.csv",index = False)
 ```
 
-| date_month | date_label | All food and drink | Dairy products | Fruit and nuts | Meat | Vegetables | Soft drinks | Coffee | Water | Sugar | Oils and fats | Cereals | Other food products |
+| date_month | date_label | All food and drink | Fruit and nuts | Meat | Dairy products | Vegetables | Water | Soft drinks | Sugar | Oils and fats | Coffee | Cereals | Other food products |
 |:---|:---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| 2024-11-01 00:00:00 | November 2024 | 710.98 | 743.226 | 996.908 | 798.376 | 1336.78 | 203.127 | 154.774 | 237.5 | 613.927 | 574.892 | 214.24 | 217.511 |
-| 2024-12-01 00:00:00 | December 2024 | 638.125 | 439.42 | 803.439 | 806.47 | 1091.66 | 192.685 | 330.585 | 500 | 453.893 | 393.547 | 329.193 | 317.519 |
-| 2025-01-01 00:00:00 | January 2025 | 359.025 | 266.049 | 487.726 | 347.038 | 559.793 | 176.225 | 238.338 | 500 | 233.722 | 272.207 | 233.496 | 307.475 |
-| 2025-02-01 00:00:00 | February 2025 | 213.255 | 191.463 | 303.82 | 210.77 | 267.367 | 126.245 | 169.198 | 317.857 | 148.56 | 171.292 | 111.696 | 222.84 |
-| 2025-03-01 00:00:00 | March 2025 | 304.901 | 215.537 | 391.785 | 355.306 | 502.136 | 150.207 | 226.057 | 316.667 | 184.552 | 210.584 | 139.956 | 216.259 |
-| 2025-04-01 00:00:00 | April 2025 | 489.027 | 543.001 | 593.144 | 366.607 | 968.3 | 150.207 | 268.538 | 308.333 | 470.101 | 507.162 | 248.539 | 293.124 |
-| 2025-05-01 00:00:00 | May 2025 | 726.379 | 1002.39 | 693.67 | 368.86 | 1265.39 | 150.207 | 311.129 | 450 | 1147.71 | 1006.97 | 660.628 | 345.096 |
-| 2025-06-01 00:00:00 | June 2025 | 1388.38 | 1035.22 | 1406.83 | 1743.95 | 2356.26 | 150.207 | 463.527 | 450 | 2876.46 | 992.791 | 679.139 | 414.758 |
-| 2025-07-01 00:00:00 | July 2025 | 1468.47 | 1035.22 | 1622.58 | 1739.87 | 2102.85 | 150.207 | 539.415 | 450 | 3794.09 | 848.149 | 919.23 | 709.419 |
-| 2025-08-01 00:00:00 | August 2025 | 975.418 | 1133.54 | 1267.67 | 928.565 | 1624.94 | 150.207 | 408.527 | 450 | 1439.42 | 477.999 | 594.538 | 468.787 |
-| 2025-09-01 00:00:00 | September 2025 | 823.875 | 1397.4 | 1494.11 | 903.23 | 1265.06 | 650.248 | 586.927 | 450 | 385.803 | 273.586 | 230.435 | 277.075 |
-| 2025-10-01 00:00:00 | October 2025 | 573.89 | 1571.9 | 765.67 | 739.789 | 662.634 | 650.248 | 474.913 | 450 | 243.282 | 193.728 | 110.879 | 169.665 |
+| 2024-12-01 00:00:00 | December 2024 | 638.125 | 803.439 | 806.47 | 439.42 | 1091.66 | 500 | 192.685 | 453.893 | 393.547 | 330.585 | 329.193 | 317.519 |
+| 2025-01-01 00:00:00 | January 2025 | 359.025 | 487.726 | 347.038 | 266.049 | 559.793 | 500 | 176.225 | 233.722 | 272.207 | 238.338 | 233.496 | 307.475 |
+| 2025-02-01 00:00:00 | February 2025 | 213.255 | 303.82 | 210.77 | 191.463 | 267.367 | 317.857 | 126.245 | 148.56 | 171.292 | 169.198 | 111.696 | 222.84 |
+| 2025-03-01 00:00:00 | March 2025 | 304.901 | 391.785 | 355.306 | 215.537 | 502.136 | 316.667 | 150.207 | 184.552 | 210.584 | 226.057 | 139.956 | 216.259 |
+| 2025-04-01 00:00:00 | April 2025 | 489.027 | 593.144 | 366.607 | 543.001 | 968.3 | 308.333 | 150.207 | 470.101 | 507.162 | 268.538 | 248.539 | 293.124 |
+| 2025-05-01 00:00:00 | May 2025 | 726.379 | 693.67 | 368.86 | 1002.39 | 1265.39 | 450 | 150.207 | 1147.71 | 1006.97 | 311.129 | 660.628 | 345.096 |
+| 2025-06-01 00:00:00 | June 2025 | 1388.38 | 1406.83 | 1743.95 | 1035.22 | 2356.26 | 450 | 150.207 | 2876.46 | 992.791 | 463.527 | 679.139 | 414.758 |
+| 2025-07-01 00:00:00 | July 2025 | 1468.47 | 1622.58 | 1739.87 | 1035.22 | 2102.85 | 450 | 150.207 | 3794.09 | 848.149 | 539.415 | 919.23 | 709.419 |
+| 2025-08-01 00:00:00 | August 2025 | 975.418 | 1267.67 | 928.565 | 1133.54 | 1624.94 | 450 | 150.207 | 1439.42 | 477.999 | 408.527 | 594.538 | 468.787 |
+| 2025-09-01 00:00:00 | September 2025 | 823.875 | 1494.11 | 903.23 | 1397.4 | 1265.06 | 450 | 650.248 | 385.803 | 273.586 | 586.927 | 230.435 | 277.075 |
+| 2025-10-01 00:00:00 | October 2025 | 573.89 | 765.67 | 739.789 | 1571.9 | 662.634 | 450 | 650.248 | 243.282 | 193.728 | 474.913 | 110.879 | 169.665 |
+| 2025-11-01 00:00:00 | November 2025 | 256.901 | 349.182 | 346.639 | 343.071 | 300.085 | 250 | 178.818 | 171.07 | 143.204 | 134.937 | 120.425 | 195.192 |
