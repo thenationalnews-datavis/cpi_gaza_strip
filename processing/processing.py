@@ -7,9 +7,8 @@
 # format:
 #   gfm:
 #     html-math-method: katex
-#     fig-width: 5
-#     fig-asp: 0.75
-#     fig-dpi: 300
+#     fig-width: 15
+#     fig-asp: 1
 #     code-annotations: below
 #     df-print: kable
 #     wrap: none
@@ -27,15 +26,17 @@ By [Isaac Arroyo](https://github.com/isaacarroyov), Data Visualisation Journalis
 # %%
 #| label: load_libraries_paths_data
 import os
+os.chdir("../")
+
 import pandas as pd
 import numpy as np
 from dateutil import parser
 from IPython.display import Markdown
 
-path2_repo = os.getcwd()
-path2_input_data = path2_repo + "/input_data"
-path2_output_data = path2_repo + "/output_data"
-path2_extras = path2_repo + "/extras"
+path2repo = os.getcwd()
+path2input_data = path2repo + "/input_data"
+path2output_data = path2repo + "/output_data"
+path2extras = path2repo + "/extras"
 
 # %% [markdown]
 """
@@ -71,7 +72,7 @@ Once downloaded, this Python script is run to create five CSVs:
 
 # %%
 #| label: create-path2cpi
-path2cpi = path2_input_data + "/consumer-price-index.xlsx"
+path2cpi = path2input_data + "/consumer-price-index.xlsx"
 
 # %% [markdown]
 """
@@ -246,7 +247,7 @@ We will rename the groups with shorter names. The new names are in
 
 # %%
 #| label: load-df_group_code_name
-df_group_code_name = pd.read_csv(filepath_or_buffer = path2_extras + "/cpi_groups_names_codes.csv")
+df_group_code_name = pd.read_csv(filepath_or_buffer = path2extras + "/cpi_groups_names_codes.csv")
 
 # %%
 #| label: show-df_group_code_name
@@ -275,7 +276,7 @@ db_cpi_major_groups = (db_cpi_major_groups
                        .reset_index(drop = True))
 
 # ~ Save data ~ #
-db_cpi_major_groups.to_csv(path_or_buf= path2_output_data + '/long_cpi_gaza_strip_major_groups.csv', index = False)
+db_cpi_major_groups.to_csv(path_or_buf= path2output_data + '/long_cpi_gaza_strip_major_groups.csv', index = False)
 
 # %%
 #| label: show_tail-db_cpi_major_groups
@@ -357,7 +358,7 @@ def func_load_major_division_xlsx(
 db_cpi_major_divisions = func_load_major_division_xlsx(xlsx_path= path2cpi)
 
 # ~ Save data ~ #
-db_cpi_major_divisions.to_csv(path_or_buf= path2_output_data + '/long_cpi_gaza_strip_major_divisions.csv', index = False)
+db_cpi_major_divisions.to_csv(path_or_buf= path2output_data + '/long_cpi_gaza_strip_major_divisions.csv', index = False)
 
 # %%
 #| label: show_tail-db_cpi_major_divisions
@@ -385,7 +386,7 @@ names are in `'cpi_food_names_codes.csv'`
 # %%
 #| label: load_df_food_code_name
 # Load new names
-df_food_code_name = pd.read_csv(filepath_or_buffer= path2_extras + "/cpi_food_names_codes.csv", dtype = str)
+df_food_code_name = pd.read_csv(filepath_or_buffer= path2extras + "/cpi_food_names_codes.csv", dtype = str)
 
 # %% [markdown]
 """
@@ -432,7 +433,7 @@ db_cpi_foods = (pd.concat(
       'pct_change']])
 
 # ~ Save data ~ #
-db_cpi_foods.to_csv(path_or_buf= path2_output_data + '/long_cpi_gaza_strip_major_foods.csv', index = False)
+db_cpi_foods.to_csv(path_or_buf= path2output_data + '/long_cpi_gaza_strip_major_foods.csv', index = False)
 
 # %%
 #| label: show_tail-db_cpi_foods
@@ -504,7 +505,7 @@ df_wide_cpi_gaza_strip_groups['date_label'] = df_wide_cpi_gaza_strip_groups["dat
 df_wide_cpi_gaza_strip_groups = df_wide_cpi_gaza_strip_groups[['date_month', 'date_label', ] + list_order_columns_name_group]
 
 # ~ Save data ~ #
-df_wide_cpi_gaza_strip_groups.to_csv(path_or_buf= path2_output_data + "/wide_cpi_gaza_strip_major_groups.csv",index = False)
+df_wide_cpi_gaza_strip_groups.to_csv(path_or_buf= path2output_data + "/wide_cpi_gaza_strip_major_groups.csv",index = False)
 
 # %%
 #| label: show_tail-df_wide_cpi_gaza_strip_groups
@@ -555,7 +556,7 @@ df_wide_cpi_gaza_strip_foods['date_label'] = df_wide_cpi_gaza_strip_foods["date_
 df_wide_cpi_gaza_strip_foods = df_wide_cpi_gaza_strip_foods[["date_month", "date_label"] + list_order_columns_name_food]
 
 # ~ Save data ~ #
-df_wide_cpi_gaza_strip_foods.to_csv(path_or_buf= path2_output_data + "/wide_cpi_gaza_strip_major_foods.csv",index = False)
+df_wide_cpi_gaza_strip_foods.to_csv(path_or_buf= path2output_data + "/wide_cpi_gaza_strip_major_foods.csv",index = False)
 
 # %%
 #| label: show-df_wide_cpi_gaza_strip_foods

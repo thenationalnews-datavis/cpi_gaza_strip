@@ -1,20 +1,22 @@
 # Data processing: Consumer Price Index (CPI) in the Gaza Strip
 
-December 17, 2025
+December 26, 2025
 
 By [Isaac Arroyo](https://github.com/isaacarroyov), Data Visualisation Journalist
 
 ``` python
 import os
+os.chdir("../")
+
 import pandas as pd
 import numpy as np
 from dateutil import parser
 from IPython.display import Markdown
 
-path2_repo = os.getcwd()
-path2_input_data = path2_repo + "/input_data"
-path2_output_data = path2_repo + "/output_data"
-path2_extras = path2_repo + "/extras"
+path2repo = os.getcwd()
+path2input_data = path2repo + "/input_data"
+path2output_data = path2repo + "/output_data"
+path2extras = path2repo + "/extras"
 ```
 
 ## Intro
@@ -40,7 +42,7 @@ Once downloaded, this Python script is run to create five CSVs:
   - Consumer Price Index by major food group
 
 ``` python
-path2cpi = path2_input_data + "/consumer-price-index.xlsx"
+path2cpi = path2input_data + "/consumer-price-index.xlsx"
 ```
 
 ## Functions
@@ -193,7 +195,7 @@ db_cpi_major_groups = func_load_major_groups_xlsx(xlsx_path=path2cpi)
 We will rename the groups with shorter names. The new names are in `'cpi_groups_names_codes.csv'`
 
 ``` python
-df_group_code_name = pd.read_csv(filepath_or_buffer = path2_extras + "/cpi_groups_names_codes.csv")
+df_group_code_name = pd.read_csv(filepath_or_buffer = path2extras + "/cpi_groups_names_codes.csv")
 ```
 
 | code_good_service | name_good_service | short_name_good_service |
@@ -233,7 +235,7 @@ db_cpi_major_groups = (db_cpi_major_groups
                        .reset_index(drop = True))
 
 # ~ Save data ~ #
-db_cpi_major_groups.to_csv(path_or_buf= path2_output_data + '/long_cpi_gaza_strip_major_groups.csv', index = False)
+db_cpi_major_groups.to_csv(path_or_buf= path2output_data + '/long_cpi_gaza_strip_major_groups.csv', index = False)
 ```
 
 | code_good_service | name_good_service | short_name_good_service | date_month | cpi_index | pct_change |
@@ -319,7 +321,7 @@ def func_load_major_division_xlsx(
 db_cpi_major_divisions = func_load_major_division_xlsx(xlsx_path= path2cpi)
 
 # ~ Save data ~ #
-db_cpi_major_divisions.to_csv(path_or_buf= path2_output_data + '/long_cpi_gaza_strip_major_divisions.csv', index = False)
+db_cpi_major_divisions.to_csv(path_or_buf= path2output_data + '/long_cpi_gaza_strip_major_divisions.csv', index = False)
 ```
 
 | code_good_service | name_good_service | date_month | cpi_index | pct_change |
@@ -343,7 +345,7 @@ Additionally, we will rename the divisions with shorter names. The new names are
 
 ``` python
 # Load new names
-df_food_code_name = pd.read_csv(filepath_or_buffer= path2_extras + "/cpi_food_names_codes.csv", dtype = str)
+df_food_code_name = pd.read_csv(filepath_or_buffer= path2extras + "/cpi_food_names_codes.csv", dtype = str)
 ```
 
 Shorter division/element names
@@ -395,7 +397,7 @@ db_cpi_foods = (pd.concat(
       'pct_change']])
 
 # ~ Save data ~ #
-db_cpi_foods.to_csv(path_or_buf= path2_output_data + '/long_cpi_gaza_strip_major_foods.csv', index = False)
+db_cpi_foods.to_csv(path_or_buf= path2output_data + '/long_cpi_gaza_strip_major_foods.csv', index = False)
 ```
 
 ``` python
@@ -475,7 +477,7 @@ df_wide_cpi_gaza_strip_groups['date_label'] = df_wide_cpi_gaza_strip_groups["dat
 df_wide_cpi_gaza_strip_groups = df_wide_cpi_gaza_strip_groups[['date_month', 'date_label', ] + list_order_columns_name_group]
 
 # ~ Save data ~ #
-df_wide_cpi_gaza_strip_groups.to_csv(path_or_buf= path2_output_data + "/wide_cpi_gaza_strip_major_groups.csv",index = False)
+df_wide_cpi_gaza_strip_groups.to_csv(path_or_buf= path2output_data + "/wide_cpi_gaza_strip_major_groups.csv",index = False)
 ```
 
 | date_month | date_label | All items | Transport | Housing expenses | Food and drink | Health | Clothing | Recreation | Houshold equipement and maintenance | Hospitality | Education | Information and Communication | Miscellaneous |
@@ -530,7 +532,7 @@ df_wide_cpi_gaza_strip_foods['date_label'] = df_wide_cpi_gaza_strip_foods["date_
 df_wide_cpi_gaza_strip_foods = df_wide_cpi_gaza_strip_foods[["date_month", "date_label"] + list_order_columns_name_food]
 
 # ~ Save data ~ #
-df_wide_cpi_gaza_strip_foods.to_csv(path_or_buf= path2_output_data + "/wide_cpi_gaza_strip_major_foods.csv",index = False)
+df_wide_cpi_gaza_strip_foods.to_csv(path_or_buf= path2output_data + "/wide_cpi_gaza_strip_major_foods.csv",index = False)
 ```
 
 | date_month | date_label | All food and drink | Fruit and nuts | Meat | Dairy products | Vegetables | Water | Soft drinks | Sugar | Oils and fats | Coffee | Cereals | Other food products |
