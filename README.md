@@ -10,7 +10,7 @@ Every month, the [Palestinian Central Bureau of Statistics (PCBS)](https://www.p
 
 The data is downloaded via the [Humanitarian Data Exchange (HDX)](https://data.humdata.org/) platform and it's under the name ["State of Palestine - Consumer Price Index](https://data.humdata.org/dataset/state-of-palestine-consumer-price-index).
 
-[The code is available here](https://github.com/thenationalnews-datavis/cpi_gaza_strip/blob/main/processing_cpi_gaza_strip.md)
+[The code is available here](https://github.com/thenationalnews-datavis/cpi_gaza_strip/blob/main/processing/processing.md)
 
 ## License
 
