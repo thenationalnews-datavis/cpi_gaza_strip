@@ -1,0 +1,15 @@
+{
+    "created": "2024-03-21T13:47:13.089852",
+    "description": "Monthly Consumer Price Index Numbers and percent changes from January 2023 - December 2025 (2018 =100) Base year",
+    "format": "XLSX",
+    "download_url": "https://data.humdata.org/dataset/0e06dbe6-8eeb-4b26-ba12-652520b44177/resource/4ea77774-3f0c-4b94-bda8-c2efb82d0394/download/consumer-price-index.xlsx",
+    "id": "4ea77774-3f0c-4b94-bda8-c2efb82d0394",
+    "last_modified": "2026-01-12T06:34:50.740349",
+    "metadata_modified": "2026-01-12T06:34:58.881887",
+    "microdata": false,
+    "dataset_id": "0e06dbe6-8eeb-4b26-ba12-652520b44177",
+    "resource_type": "file.upload",
+    "name": "consumer-price-index.xlsx",
+    "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "size": "174.4K"
+}
