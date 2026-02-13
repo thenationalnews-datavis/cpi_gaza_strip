@@ -36,6 +36,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 0999,All items of consumer price index,All items,2025-10-01,338.6205256838715,-40.422278221424136
 0999,All items of consumer price index,All items,2025-11-01,221.12784299251365,-34.697448553678754
 0999,All items of consumer price index,All items,2025-12-01,195.6005684795294,-11.544124958451519
+0999,All items of consumer price index,All items,2026-01-01,198.3859697820285,1.4240251570591056
 01,Food and Non-Alcoholic Beverages,Food and drink,2022-12-01,105.67426616301573,
 01,Food and Non-Alcoholic Beverages,Food and drink,2023-01-01,103.22457704689867,-2.3181510551850977
 01,Food and Non-Alcoholic Beverages,Food and drink,2023-02-01,105.0582324898007,1.7763748666840513
@@ -73,6 +74,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 01,Food and Non-Alcoholic Beverages,Food and drink,2025-10-01,573.8898465955292,-30.3426093059785
 01,Food and Non-Alcoholic Beverages,Food and drink,2025-11-01,256.90116956666236,-55.235108080292754
 01,Food and Non-Alcoholic Beverages,Food and drink,2025-12-01,202.7777565368043,-21.067795495502324
+01,Food and Non-Alcoholic Beverages,Food and drink,2026-01-01,190.63862203305007,-5.986423122079941
 02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2022-12-01,111.01849919114345,
 02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-01-01,111.15617598980997,0.12401248410813537
 02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2023-02-01,112.14422169153289,0.8888806158764453
@@ -110,6 +112,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-10-01,428.32330766982335,-49.91871843956215
 02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-11-01,475.6876009734835,11.058070493836226
 02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2025-12-01,609.0559543917086,28.036962314193175
+02,"Alcholoic Beverages, Tobacco and Narcotics",Alcoholic beverages and tobacco,2026-01-01,767.6828311887601,26.04471324075294
 03,Clothing and Footwear,Clothing,2022-12-01,97.12722939085009,
 03,Clothing and Footwear,Clothing,2023-01-01,97.82247721719531,0.715811447217817
 03,Clothing and Footwear,Clothing,2023-02-01,98.07363314761811,0.2567466471587636
@@ -147,6 +150,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 03,Clothing and Footwear,Clothing,2025-10-01,158.1712424879591,-7.641807520209923
 03,Clothing and Footwear,Clothing,2025-11-01,132.92557518503236,-15.960971732803188
 03,Clothing and Footwear,Clothing,2025-12-01,153.2033381017059,15.254974739396005
+03,Clothing and Footwear,Clothing,2026-01-01,172.94659981184742,12.886965750729743
 04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2022-12-01,108.02790198448949,
 04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-01-01,108.14102650910885,0.10471787616093309
 04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2023-02-01,108.25308564730075,0.10362315007472489
@@ -184,6 +188,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-10-01,300.66012867937485,-78.61101116295868
 04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-11-01,308.2560180103382,2.5264039380039236
 04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2025-12-01,292.9236219480463,-4.973916214598518
+04,"Housing, Water, Electricity, Gas and Other Fuels",Housing expenses,2026-01-01,289.69944194067057,-1.1006896562092692
 05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2022-12-01,100.72522114172789,
 05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-01-01,100.00206755716056,-0.7179468819927308
 05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2023-02-01,100.76855833694032,0.7664749324724198
@@ -221,6 +226,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-10-01,148.74012242900275,-20.31012074042451
 05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-11-01,119.19604863355114,-19.862881186986854
 05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2025-12-01,112.41053978742579,-5.692729686859238
+05,"Furnishings, Household Equipment and Routine Houshold Maintenance",Houshold equipement and maintenance,2026-01-01,111.6928311159764,-0.6384709768377661
 06,Health,Health,2022-12-01,88.01551787735177,
 06,Health,Health,2023-01-01,88.12661746551316,0.12622727314541748
 06,Health,Health,2023-02-01,88.84443627201223,0.8145312133192704
@@ -258,6 +264,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 06,Health,Health,2025-10-01,183.88192325587295,0.0
 06,Health,Health,2025-11-01,183.88192325587295,0.0
 06,Health,Health,2025-12-01,183.88192325587295,0.0
+06,Health,Health,2026-01-01,183.88192325587295,0.0
 07,Transport ,Transport,2022-12-01,99.13461708914726,
 07,Transport ,Transport,2023-01-01,99.46510689794901,0.333374777152315
 07,Transport ,Transport,2023-02-01,99.50512824349418,0.040236568172829834
@@ -295,6 +302,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 07,Transport ,Transport,2025-10-01,564.7416343618478,-20.046854816702975
 07,Transport ,Transport,2025-11-01,404.6914349189665,-28.340428561414
 07,Transport ,Transport,2025-12-01,248.98440234260943,-38.47549494284086
+07,Transport ,Transport,2026-01-01,241.2572040875106,-3.1034868780519105
 08,Information and Communication,Information and Communication,2022-12-01,101.84629761014726,
 08,Information and Communication,Information and Communication,2023-01-01,101.42194166135715,-0.41666310778863647
 08,Information and Communication,Information and Communication,2023-02-01,101.66495012619269,0.2396014716883741
@@ -332,6 +340,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 08,Information and Communication,Information and Communication,2025-10-01,100.42400713168996,0.0
 08,Information and Communication,Information and Communication,2025-11-01,100.42400713168996,0.0
 08,Information and Communication,Information and Communication,2025-12-01,100.42400713168996,0.0
+08,Information and Communication,Information and Communication,2026-01-01,100.42400713168996,0.0
 09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2022-12-01,118.44756340525156,
 09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-01-01,117.04530120729677,-1.1838674917753593
 09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2023-02-01,123.33191964689323,5.371098518907928
@@ -369,6 +378,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-10-01,132.2039984046443,0.0
 09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-11-01,132.2039984046443,0.0
 09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2025-12-01,132.2039984046443,0.0
+09,"Recreation, Sport, Culture, Gardens and Pets",Recreation,2026-01-01,132.2039984046443,0.0
 10,Education Services,Education,2022-12-01,97.68701779723717,
 10,Education Services,Education,2023-01-01,97.68701779723717,0.0
 10,Education Services,Education,2023-02-01,97.68701779723717,0.0
@@ -406,6 +416,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 10,Education Services,Education,2025-10-01,102.39594993741784,0.0
 10,Education Services,Education,2025-11-01,102.39594993741784,0.0
 10,Education Services,Education,2025-12-01,102.39594993741784,0.0
+10,Education Services,Education,2026-01-01,102.39594993741784,0.0
 11,Resturants and Accomodation Services,Hospitality,2022-12-01,100.4355252249541,
 11,Resturants and Accomodation Services,Hospitality,2023-01-01,100.4972486280171,0.06145574777922036
 11,Resturants and Accomodation Services,Hospitality,2023-02-01,102.76946310730283,2.260971827891666
@@ -443,6 +454,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 11,Resturants and Accomodation Services,Hospitality,2025-10-01,104.75992557054833,0.0
 11,Resturants and Accomodation Services,Hospitality,2025-11-01,104.75992557054833,0.0
 11,Resturants and Accomodation Services,Hospitality,2025-12-01,108.57964784930567,3.6461674232338197
+11,Resturants and Accomodation Services,Hospitality,2026-01-01,107.64852277793119,-0.8575502774394295
 12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2022-12-01,104.9079576743716,
 12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-01-01,104.94143856797609,0.031914541419638454
 12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2023-02-01,105.25331143851726,0.2971875312526322
@@ -480,6 +492,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-10-01,122.26260760734586,-19.370446496623444
 12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-11-01,118.15979317400145,-3.3557393496144385
 12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2025-12-01,116.84715056858778,-1.1109046234370794
+12+13,Miscellaneous Goods and Services (12+13),Miscellaneous,2026-01-01,119.91429047733702,2.624916306323513
 12,Insurance and Financial Services,Financial services,2022-12-01,100.99591680860566,
 12,Insurance and Financial Services,Financial services,2023-01-01,100.97576705960441,-0.01995105310983547
 12,Insurance and Financial Services,Financial services,2023-02-01,101.39746787173436,0.4176257575552995
@@ -517,6 +530,7 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 12,Insurance and Financial Services,Financial services,2025-10-01,99.31197614954662,-0.24756728008409823
 12,Insurance and Financial Services,Financial services,2025-11-01,99.21075559574473,-0.10192180009536855
 12,Insurance and Financial Services,Financial services,2025-12-01,99.02168471549541,-0.19057498263568107
+12,Insurance and Financial Services,Financial services,2026-01-01,98.68259982988836,-0.3424349793495196
 13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2022-12-01,106.9359406460547,
 13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-01-01,106.9972234041327,0.05730791510110578
 13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2023-02-01,107.25216200353519,0.23826655616994685
@@ -554,3 +568,4 @@ code_good_service,name_good_service,short_name_good_service,date_month,cpi_index
 13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-10-01,134.16010341141347,-24.895481251711303
 13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-11-01,127.98288215928585,-4.604365303136831
 13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2025-12-01,126.08778543228114,-1.4807423422814452
+13,"Personal Care, Social Protection and Miscellaneous Goods and Services ",Personal care and miscellaneous,2026-01-01,130.92069571963987,3.8329726156974857

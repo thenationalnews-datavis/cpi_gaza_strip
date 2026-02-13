@@ -36,6 +36,7 @@ Food and Non-Alcoholic Beverages,All food and drink,01,2025-09-01,823.8750272981
 Food and Non-Alcoholic Beverages,All food and drink,01,2025-10-01,573.8898465955292,-30.3426093059785
 Food and Non-Alcoholic Beverages,All food and drink,01,2025-11-01,256.90116956666236,-55.235108080292754
 Food and Non-Alcoholic Beverages,All food and drink,01,2025-12-01,202.7777565368043,-21.067795495502324
+Food and Non-Alcoholic Beverages,All food and drink,01,2026-01-01,190.63862203305007,-5.986423122079941
 Cereals and cereal products,Cereals,0111,2022-12-01,107.40750903502278,
 Cereals and cereal products,Cereals,0111,2023-01-01,108.34958832992736,0.8771074791403777
 Cereals and cereal products,Cereals,0111,2023-02-01,108.57793175162419,0.21074692134641282
@@ -73,6 +74,7 @@ Cereals and cereal products,Cereals,0111,2025-09-01,230.43498995426543,-61.24131
 Cereals and cereal products,Cereals,0111,2025-10-01,110.8790466947917,-51.88272114543111
 Cereals and cereal products,Cereals,0111,2025-11-01,120.42482693956326,8.609183185933688
 Cereals and cereal products,Cereals,0111,2025-12-01,104.10759040852021,-13.549728030111325
+Cereals and cereal products,Cereals,0111,2026-01-01,102.05806571908649,-1.9686601922024636
 "Live animals, meat and other parts of slaughtered land animals",Meat,0112,2022-12-01,108.87872415113753,
 "Live animals, meat and other parts of slaughtered land animals",Meat,0112,2023-01-01,105.94353507000575,-2.69583346426559
 "Live animals, meat and other parts of slaughtered land animals",Meat,0112,2023-02-01,107.7822555852276,1.7355665109785718
@@ -110,6 +112,7 @@ Cereals and cereal products,Cereals,0111,2025-12-01,104.10759040852021,-13.54972
 "Live animals, meat and other parts of slaughtered land animals",Meat,0112,2025-10-01,739.7893629939675,-18.095117619687585
 "Live animals, meat and other parts of slaughtered land animals",Meat,0112,2025-11-01,346.63871606878246,-53.14359283757246
 "Live animals, meat and other parts of slaughtered land animals",Meat,0112,2025-12-01,242.71223109950358,-29.98121102798484
+"Live animals, meat and other parts of slaughtered land animals",Meat,0112,2026-01-01,192.17590360775128,-20.821500120871193
 "Milk, other dairy products and eggs",Dairy products,0114,2022-12-01,103.18189623472101,
 "Milk, other dairy products and eggs",Dairy products,0114,2023-01-01,103.39533303954217,0.2068548966532262
 "Milk, other dairy products and eggs",Dairy products,0114,2023-02-01,104.57689193237154,1.1427584380210902
@@ -147,6 +150,7 @@ Cereals and cereal products,Cereals,0111,2025-12-01,104.10759040852021,-13.54972
 "Milk, other dairy products and eggs",Dairy products,0114,2025-10-01,1571.904182335539,12.487683777706664
 "Milk, other dairy products and eggs",Dairy products,0114,2025-11-01,343.0712151304442,-78.1748010479425
 "Milk, other dairy products and eggs",Dairy products,0114,2025-12-01,235.10689350472197,-31.469944683255207
+"Milk, other dairy products and eggs",Dairy products,0114,2026-01-01,194.32726624608406,-17.34514316051684
 Oils and fats,Oils and fats,0115,2022-12-01,119.09461101759011,
 Oils and fats,Oils and fats,0115,2023-01-01,117.32036022017652,-1.4897826041444802
 Oils and fats,Oils and fats,0115,2023-02-01,116.5089702279932,-0.691602029401011
@@ -184,6 +188,7 @@ Oils and fats,Oils and fats,0115,2025-09-01,273.5860707656749,-42.76426299678503
 Oils and fats,Oils and fats,0115,2025-10-01,193.72840507428768,-29.18922935948187
 Oils and fats,Oils and fats,0115,2025-11-01,143.20366752897985,-26.080190731933953
 Oils and fats,Oils and fats,0115,2025-12-01,134.19226805692142,-6.292715562075131
+Oils and fats,Oils and fats,0115,2026-01-01,128.99828620423253,-3.8705522515542583
 Fruits and nuts,Fruit and nuts,0116,2022-12-01,98.42389442900242,
 Fruits and nuts,Fruit and nuts,0116,2023-01-01,97.97110220173776,-0.460042990466377
 Fruits and nuts,Fruit and nuts,0116,2023-02-01,100.30948065616566,2.386804273787618
@@ -221,6 +226,7 @@ Fruits and nuts,Fruit and nuts,0116,2025-09-01,1494.1076757193182,17.86273695328
 Fruits and nuts,Fruit and nuts,0116,2025-10-01,765.6696135685416,-48.75405394059567
 Fruits and nuts,Fruit and nuts,0116,2025-11-01,349.1815050605892,-54.39527717011445
 Fruits and nuts,Fruit and nuts,0116,2025-12-01,303.0714224807561,-13.205190398567126
+Fruits and nuts,Fruit and nuts,0116,2026-01-01,329.6563113063451,8.771823027054637
 "Vegetables, tubers, plantains, cooking bananas and pulses",Vegetables,0117,2022-12-01,112.39507432298785,
 "Vegetables, tubers, plantains, cooking bananas and pulses",Vegetables,0117,2023-01-01,99.89943395088686,-11.11760497278776
 "Vegetables, tubers, plantains, cooking bananas and pulses",Vegetables,0117,2023-02-01,105.46642314239907,5.572593328455767
@@ -258,6 +264,7 @@ Fruits and nuts,Fruit and nuts,0116,2025-12-01,303.0714224807561,-13.20519039856
 "Vegetables, tubers, plantains, cooking bananas and pulses",Vegetables,0117,2025-10-01,662.6338625586168,-47.62039570806627
 "Vegetables, tubers, plantains, cooking bananas and pulses",Vegetables,0117,2025-11-01,300.0848979629078,-54.71331682262734
 "Vegetables, tubers, plantains, cooking bananas and pulses",Vegetables,0117,2025-12-01,240.92899989608844,-19.713054028507415
+"Vegetables, tubers, plantains, cooking bananas and pulses",Vegetables,0117,2026-01-01,240.69133786125772,-0.09864401335381956
 "Sugar, confectionery and desserts",Sugar,0118,2022-12-01,97.44208691312525,
 "Sugar, confectionery and desserts",Sugar,0118,2023-01-01,97.5331206815367,0.09342345930316753
 "Sugar, confectionery and desserts",Sugar,0118,2023-02-01,97.91934494659256,0.39599293281813175
@@ -295,6 +302,7 @@ Fruits and nuts,Fruit and nuts,0116,2025-12-01,303.0714224807561,-13.20519039856
 "Sugar, confectionery and desserts",Sugar,0118,2025-10-01,243.2815456363894,-36.94143911952826
 "Sugar, confectionery and desserts",Sugar,0118,2025-11-01,171.06994145081964,-29.682318893804563
 "Sugar, confectionery and desserts",Sugar,0118,2025-12-01,134.50689382808133,-21.37315726693558
+"Sugar, confectionery and desserts",Sugar,0118,2026-01-01,120.71225922701704,-10.255708245479042
 Ready-made food and other food products,Other food products,0119,2022-12-01,93.09350105334897,
 Ready-made food and other food products,Other food products,0119,2023-01-01,93.0723280313647,-0.022743823945489794
 Ready-made food and other food products,Other food products,0119,2023-02-01,93.38797781411442,0.3391446087427141
@@ -332,6 +340,7 @@ Ready-made food and other food products,Other food products,0119,2025-09-01,277.
 Ready-made food and other food products,Other food products,0119,2025-10-01,169.66471324164792,-38.76584562486131
 Ready-made food and other food products,Other food products,0119,2025-11-01,195.1920660528317,15.045764274405144
 Ready-made food and other food products,Other food products,0119,2025-12-01,184.20957795976872,-5.626503328311713
+Ready-made food and other food products,Other food products,0119,2026-01-01,174.2470649365789,-5.40824919829393
 Coffee and coffee substitutes,Coffee,0122,2022-12-01,90.55625590947207,
 Coffee and coffee substitutes,Coffee,0122,2023-01-01,91.49924926760758,1.041334305029352
 Coffee and coffee substitutes,Coffee,0122,2023-02-01,91.98267629634081,0.5283398854118957
@@ -369,6 +378,7 @@ Coffee and coffee substitutes,Coffee,0122,2025-09-01,586.9268137083318,43.668888
 Coffee and coffee substitutes,Coffee,0122,2025-10-01,474.9128793956926,-19.08482142857143
 Coffee and coffee substitutes,Coffee,0122,2025-11-01,134.9372460742445,-71.58694743213815
 Coffee and coffee substitutes,Coffee,0122,2025-12-01,140.38419820463824,4.036655770636315
+Coffee and coffee substitutes,Coffee,0122,2026-01-01,148.54115953194798,5.810455472644676
 Water,Water,0124,2022-12-01,100.37259834704712,
 Water,Water,0124,2023-01-01,99.99999999999999,-0.3712152053280846
 Water,Water,0124,2023-02-01,99.99999999999999,0.0
@@ -406,6 +416,7 @@ Water,Water,0124,2025-09-01,449.9999999999999,0.0
 Water,Water,0124,2025-10-01,449.9999999999999,0.0
 Water,Water,0124,2025-11-01,249.99999999999994,-44.44444444444444
 Water,Water,0124,2025-12-01,199.99999999999997,-20.0
+Water,Water,0124,2026-01-01,199.99999999999997,0.0
 Soft drinks,Soft drinks,0126,2022-12-01,96.05037687973702,
 Soft drinks,Soft drinks,0126,2023-01-01,96.85258168037171,0.8351917261492048
 Soft drinks,Soft drinks,0126,2023-02-01,95.05695818327247,-1.8539758733794827
@@ -443,3 +454,4 @@ Soft drinks,Soft drinks,0126,2025-09-01,650.2477459074128,332.9004329004329
 Soft drinks,Soft drinks,0126,2025-10-01,650.2477459074128,0.0
 Soft drinks,Soft drinks,0126,2025-11-01,178.81813012453853,-72.5
 Soft drinks,Soft drinks,0126,2025-12-01,162.56193647685322,-9.09090909090908
+Soft drinks,Soft drinks,0126,2026-01-01,315.39973297638664,94.01819381088364
